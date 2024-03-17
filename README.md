@@ -20,15 +20,14 @@ Front
 [![](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img001.jpg)](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img001.jpg)
 
 Rev 0.4 on PCB
-Front
+Rear
 [![](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img003.jpg)](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img003.jpg)
 
-Features
+Description of changes
 ========
 
-### 303/808 Step Sequencer clone
 
-Programming bass and drum steps using same analogy of original machines • Save your pattern work on microcontroller EPPROM memory for later live gigs • Use step length and shift to make some unusual sequences • Automation grid system for step edit, pattern navigation and mute tracks • Realtime and Step record modes for MIDI keyboard input(v2 only)
+- The main board of the device has the maximum possible minimum size, at which all controls will be conveniently located without interfering with each other when adjusting parameters
 
 ### Professional grade Clock
 
