@@ -25,11 +25,11 @@ Rear
 
 Rev 0.2 filter PCB SMR4MK2
 Front
-[![](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img001.jpg)](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img001.jpg)
+[![](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/flt_shrt_xt_rev0_2_img001.jpg)](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/flt_shrt_xt_rev0_2_img001.jpg)
 
 Rev 0.2 filter PCB SMR4MK2
 Rear
-[![](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img003.jpg)](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img003.jpg)
+[![](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/flt_shrt_xt_rev0_2_img002.jpg)](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/flt_shrt_xt_rev0_2_img002.jpg)
 
 Description of changes
 ========
