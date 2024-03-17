@@ -27,28 +27,10 @@ Description of changes
 ========
 
 
-- The main board of the device has the maximum possible minimum size, at which all controls will be conveniently located without interfering with each other when adjusting parameters
-
-### Professional grade Clock
-
-Tight and solid clock system using hardware timers to achieve realtime professional grade tick system • Send or receive clock to keep all your external equipment synced
-
-### Generative Engine
-
-Generate new and fresh acid music patterns by pressing a single button and twist some parameters • Harmonizer to force musical harmonic modes for bass lines • Euclidian generator for drum parts
-
-### Midi Controller
-
-Controls up to 16 parameters per track of your external synthesizers(bass/drums) • Midi learn(v2 only) • 16 potentiometers modular support to extend aciduino as midi controller(v2 only)
-
-### Pattern memory
-
-Store your patterns conveniently on the microcontroller's EEPROM, allowing you to access them effortlessly during live performances.
-
-# Easy and fast Assembly
-
-1 or 2 hours assembly time on protoboard. 
-
-[V1 Assembly](https://github.com/midilab/aciduino/tree/master/v1)
-
-[V2 Assembly](https://github.com/midilab/aciduino/tree/master/v2#assembly)
+- The main pcb board of the device has the maximum possible minimum size, at which all controls will be conveniently located without interfering with each other when adjusting parameters. Knobs for potentiometers can have a maximum diameter of 10 mm.
+- All input power circuits of the device, previously located on the filter pcb boards, are now routed to the main pcb board. Thus, the cost of the filter, as well as the complete device with several filters, is significantly reduced.
+- Since the filter circuits now have fewer components and the main pcb board has been reduced in size, the filter pcb boards have been brought down to the basic standard of 55mm x 85mm, similar in size to a standard plastic card (yes, I want the filter be the size of a plastic card = ))
+- The seat for the filter pcb board is designed for a larger pcb board size, in case you need to design some kind of extremely cool filter that would not fit into a standard 55 mm x 85 mm space. It is permissible to design pcb boards measuring 55 mm x 105 mm into the footprint.
+- In the author's original version, the output sound volume can be adjusted in two ways: digital adjustment and analog adjustment. In order to switch sound control options, it was necessary to use a soldering iron and solder. In the same modification project, to switch adjustment options, it is enough to switch a pair of switches on the back of the main pcb board.
+- All filters in the original design have settings for the output sound and filtering using changeover jumpers. In the modified version, linear sliding switches are installed instead of jumpers.
+- 
