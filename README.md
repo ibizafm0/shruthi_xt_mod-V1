@@ -14,11 +14,9 @@ All listed files are posted as is in the repository resource files.
 
 In the process of debugging the main board and the filter board, version numbering of changes was used. At the time of publication, the main board has an index of 0.4, the sm4mk2 filter board has an index of 0.2
 
-## [Aciduino V1](https://github.com/midilab/aciduino/tree/master/v1/)  
-2 Tracks TB303 sequencer and MIDI Controller.
-
-V1 on PCB
-[![](https://midilab.co/data/uploads/2022/05/aciduino_mk2-1024x632.jpg)](https://midilab.co/data/uploads/2022/05/aciduino_mk2.jpg)
+## [Shruthi XT mod rev 0.4](https://github.com/ibizafm0/shruthi_xt_mod)  
+Rev 0.4 on PCB
+[![](https://123.jpg)](https://456.jpg)
 
 V1 on Protoboard
 [![](https://midilab.co/data/uploads/2023/03/aciduinov1-1024x576.jpg)](https://midilab.co/data/uploads/2023/03/aciduinov1.jpg)
