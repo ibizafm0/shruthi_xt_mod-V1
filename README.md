@@ -1,5 +1,14 @@
 # Shruthi XT mod
 
+This modification is a clone of the popular Shruthi-1, a digital/analog hybrid MIDI monosynth. The author of the project, Emilie Gillette [Mutable Instruments](https://pichenettes.github.io/mutable-instruments-documentation/), has posted all the resources for this device in the repository of his profile https://github.com/pichenettes.
+
+This modification is a completely changed design of the main board, as well as additional filter boards, which in turn also changed their design and board size.
+
+Original filter boards are not suitable for this project. The entire design has been reduced and redesigned for SMD type electronic components, including all chips including the atmega644 processor.
+
+
+
+
 The DIY Arduino-based Roland TB303 and TR808 Step Sequencer clone and MIDI Controller. Designed using readily available, inexpensive parts. It can be easily assembled on a protoboard or [ordered as PCB](https://pushermanproductions.com/product/midilab-aciduino-303-style-midi-sequencer-pcb-only/). 
 
 There are two flavors of aciduino, the [first version(v1)](https://github.com/midilab/aciduino/tree/master/v1/) is a TB303 sequencer only, the [second version(v2)](https://github.com/midilab/aciduino/tree/master/v2/) is a TB303 and TR808 sequencer with oled display and step/pattern/mute grid system.
