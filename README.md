@@ -16,7 +16,7 @@ In the process of debugging the main board and the filter board, version numberi
 
 ## [Shruthi XT mod rev 0.4](https://github.com/ibizafm0/shruthi_xt_mod)  
 Rev 0.4 on PCB
-[![](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img001.jpg)](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img002.jpg)
+[![](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img001.jpg)](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img001.jpg)
 
 V1 on Protoboard
 [![](https://midilab.co/data/uploads/2023/03/aciduinov1-1024x576.jpg)](https://midilab.co/data/uploads/2023/03/aciduinov1.jpg)
