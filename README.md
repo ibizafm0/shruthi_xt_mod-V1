@@ -1,4 +1,4 @@
-# Aciduino
+# Shruthi XT mod
 
 The DIY Arduino-based Roland TB303 and TR808 Step Sequencer clone and MIDI Controller. Designed using readily available, inexpensive parts. It can be easily assembled on a protoboard or [ordered as PCB](https://pushermanproductions.com/product/midilab-aciduino-303-style-midi-sequencer-pcb-only/). 
 
