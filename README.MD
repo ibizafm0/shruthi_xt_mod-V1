@@ -1,4 +1,4 @@
-# Shruthi XT mod /  [ENGLISH VERSION](https://github.com/ibizafm0/shruthi_xt_mod)
+# Shruthi XT mod /  [ENGLISH VERSION](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/README.md)
 
 This modification is a clone of the popular Shruthi-1, a digital/analog hybrid MIDI monosynth. The author of the project, Emilie Gillette [Mutable Instruments](https://pichenettes.github.io/mutable-instruments-documentation/), has posted all the resources for this device in the repository of his profile [github.com](https://github.com/pichenettes). Documentation for the original project is available here [Mutable Instruments: NON Eurorack project](https://pichenettes.github.io/mutable-instruments-diy-archive/)
 
