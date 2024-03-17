@@ -6,14 +6,11 @@ This modification is a completely changed design of the main board, as well as a
 
 Original filter boards are not suitable for this project. The entire design has been reduced and redesigned for SMD type electronic components, including all chips including the atmega644 processor.
 
+This synthesizer design is still in development, but the main board and the smr4mk2 filter have already been tested for errors and functionality. In the future, the boards may be modified, but to a lesser extent. There may be minor changes in the location of connectors or some parts.
 
-
-
-The DIY Arduino-based Roland TB303 and TR808 Step Sequencer clone and MIDI Controller. Designed using readily available, inexpensive parts. It can be easily assembled on a protoboard or [ordered as PCB](https://pushermanproductions.com/product/midilab-aciduino-303-style-midi-sequencer-pcb-only/). 
-
-There are two flavors of aciduino, the [first version(v1)](https://github.com/midilab/aciduino/tree/master/v1/) is a TB303 sequencer only, the [second version(v2)](https://github.com/midilab/aciduino/tree/master/v2/) is a TB303 and TR808 sequencer with oled display and step/pattern/mute grid system.
-
-Find out more about at [official home page](https://midilab.co/aciduino/)
+Main board dimensions 207.5 mm x 110 mm. Dimensions of the filter board are 55 mm x 85 mm.
+For this project there was a need to redraw the electrical circuit for routing. In addition, a preliminary case and top panel have been created.
+All listed files are posted as is in the repository resource files.
 
 ## [Aciduino V1](https://github.com/midilab/aciduino/tree/master/v1/)  
 2 Tracks TB303 sequencer and MIDI Controller.
