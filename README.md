@@ -16,19 +16,12 @@ In the process of debugging the main board and the filter board, version numberi
 
 ## [Shruthi XT mod rev 0.4](https://github.com/ibizafm0/shruthi_xt_mod)  
 Rev 0.4 on PCB
+Front
 [![](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img001.jpg)](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img001.jpg)
 
-V1 on Protoboard
-[![](https://midilab.co/data/uploads/2023/03/aciduinov1-1024x576.jpg)](https://midilab.co/data/uploads/2023/03/aciduinov1.jpg)
-
-## [Aciduino V2](https://github.com/midilab/aciduino/tree/master/v2/)  
-Up to 16 Tracks TB303/TR808 sequencer with step, pattern and mute automation grid system, MIDI Controller, OLED display and extensible modular design to plug more potentiometers, buttons, MIDI or CV/Gate interfaces.
-
-V2 on Protoboard
-[![](https://midilab.co/data/uploads/2023/01/aciduino_v2_teensy_bb-1024x696.jpg)](https://midilab.co/data/uploads/2023/01/aciduino_v2_teensy_bb-scaled.jpg)
-
-V2 on PCB(prototype)
-[![](https://midilab.co/data/uploads/2023/03/uone_umodular-scaled.jpg)](https://midilab.co/data/uploads/2023/03/uone_umodular-scaled.jpg)
+Rev 0.4 on PCB
+Front
+[![](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img002.jpg)](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img002.jpg)
 
 Features
 ========
