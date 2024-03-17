@@ -12,6 +12,8 @@ Main board dimensions 207.5 mm x 110 mm. Dimensions of the filter board are 55 m
 For this project there was a need to redraw the electrical circuit for routing. In addition, a preliminary case and top panel have been created.
 All listed files are posted as is in the repository resource files.
 
+In the process of debugging the main board and the filter board, version numbering of changes was used. At the time of publication, the main board has an index of 0.4, the sm4mk2 filter board has an index of 0.2
+
 ## [Aciduino V1](https://github.com/midilab/aciduino/tree/master/v1/)  
 2 Tracks TB303 sequencer and MIDI Controller.
 
