@@ -1,6 +1,6 @@
 # Shruthi XT МОД /  [ENGLISH VERSION](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/README.md)
 
-Эта модификация является клоном популярного Shruthi-1, цифро-аналогового гибридного моносинтезатора MIDI. Автор проекта Эмили Джилетт [Mutable Instruments](https://pichenettes.github.io/mutable-instruments-documentation/) разместил все ресурсы по этому устройству в репозитории своего профиля [github.com] (https://github.com/pichenettes). Документация исходного проекта доступна здесь [Mutable Instruments: проект NON Eurorack] (https://pichenettes.github.io/mutable-instruments-diy-archive/)
+Эта модификация является клоном популярного Shruthi-1, цифро-аналогового гибридного моносинтезатора MIDI. Автор проекта Эмили Джилетт [Mutable Instruments](https://pichenettes.github.io/mutable-instruments-documentation/) разместил все ресурсы по этому устройству в репозитории своего профиля [github.com](https://github.com/pichenettes). Документация исходного проекта доступна здесь [Mutable Instruments: проект NON Eurorack](https://pichenettes.github.io/mutable-instruments-diy-archive/)
 
 Данная модификация представляет собой полностью изменённую конструкцию основной платы, а также дополнительных плат фильтров, которые в свою очередь также изменили свой дизайн и размер платы.
 
