@@ -52,6 +52,7 @@ Description of changes
 Updates February 2, 2025
 ========
 
+- Diode assemblies have been added to the MIDI input circuit to use TRS MIDI Type A and Type B formats.
 - Main board has an index of 0.5, the sm4mk2 filter board has an index of 0.3
 - In the current version, a 5.5 mm x 2.1 mm power port is installed on the main pcb board to power the device.
 - Installing ferrite beads, in case of using an OLED display, to prevent interference.
