@@ -1,4 +1,4 @@
-# Shruthi XT mod
+# Shruthi XT mod (updated February 2, 2025)
 
 This modification is a clone of the popular Shruthi-1, a digital/analog hybrid MIDI monosynth. The author of the project, Emilie Gillette [Mutable Instruments](https://pichenettes.github.io/mutable-instruments-documentation/), has posted all the resources for this device in the repository of his profile [github.com](https://github.com/pichenettes). Documentation for the original project is available here [Mutable Instruments: NON Eurorack project](https://pichenettes.github.io/mutable-instruments-diy-archive/)
 
@@ -12,22 +12,22 @@ Main board dimensions 207.5 mm x 110 mm. Dimensions of the filter board are 55 m
 For this project there was a need to redraw the electrical circuit for routing. In addition, a preliminary case and top panel have been created.
 All listed files are posted as is in the repository resource files.
 
-In the process of debugging the main board and the filter board, version numbering of changes was used. At the time of publication, the main board has an index of 0.4, the sm4mk2 filter board has an index of 0.2
+In the process of debugging the main board and the filter board, version numbering of changes was used. At the time of publication, the main board has an index of 0.5, the sm4mk2 filter board has an index of 0.3
 
 ## [Shruthi XT mod rev 0.4](https://github.com/ibizafm0/shruthi_xt_mod)  
-Rev 0.4 main PCB
+Rev 0.5 main PCB
 Front
 [![](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img001.jpg)](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img001.jpg)
 
-Rev 0.4 main PCB
+Rev 0.5 main PCB
 Rear
 [![](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img003.jpg)](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img003.jpg)
 
-Rev 0.2 filter PCB SMR4MK2
+Rev 0.3 filter PCB SMR4MK2
 Front
 [![](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/flt_shrt_xt_rev0_2_img001.jpg)](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/flt_shrt_xt_rev0_2_img001.jpg)
 
-Rev 0.2 filter PCB SMR4MK2
+Rev 0.3 filter PCB SMR4MK2
 Rear
 [![](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/flt_shrt_xt_rev0_2_img002.jpg)](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/flt_shrt_xt_rev0_2_img002.jpg)
 
@@ -49,12 +49,19 @@ Description of changes
 - In the author's original version, the output sound volume can be adjusted in two ways: digital adjustment and analog adjustment. In order to switch sound control options, it was necessary to use a soldering iron and solder. In the same modification project, to switch adjustment options, it is enough to switch a pair of switches on the back of the main pcb board.
 - All filters in the original design have settings for the output sound and filtering using changeover jumpers. In the modified version, linear sliding switches are installed instead of jumpers.
 
+Updates February 2, 2025
+========
+
+- Main board has an index of 0.5, the sm4mk2 filter board has an index of 0.3
+- In the current version, a 5.5 mm x 2.1 mm power port is installed on the main pcb board to power the device.
+- Installing ferrite beads, in case of using an OLED display, to prevent interference.
+- Added pins for in-circuit firmware of the 24lc512 memory chip.
+
 Upcoming of changes
 ========
 
-- In the current version, a 4.0 mm x1.7 mm power port is installed on the main pcb board to power the device; it will be necessary to replace it with the more popular 5.5 mm x 2.1 mm.
 - The 24-step encoders used in the modified version, for some strange circumstances, had different switching directions from batch to batch, and therefore it will be necessary to add additional contacts to change the polarity of the encoder adjustment.
-- It is necessary to add seats for installing ferrite beads, in case of using an OLED display, to prevent interference.
 - Need to consider adding spring mounting holes to accommodate the battery compartment. Portable use is an interesting idea, why not.
-- Need add additional pins for in-circuit firmware of the 24lc512 memory chip.
+- It is necessary to consider the possibility of reducing the thickness of the synthesizer structure.
+
 
