@@ -14,7 +14,7 @@ All listed files are posted as is in the repository resource files.
 
 In the process of debugging the main board and the filter board, version numbering of changes was used. At the time of publication, the main board has an index of 0.5, the sm4mk2 filter board has an index of 0.3
 
-## [Shruthi XT mod rev 0.4](https://github.com/ibizafm0/shruthi_xt_mod)  
+## [Shruthi XT mod rev 0.5](https://github.com/ibizafm0/shruthi_xt_mod)  
 Rev 0.5 main PCB
 Front
 [![](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img001.jpg)](https://github.com/ibizafm0/shruthi_xt_mod/blob/main/shruthixtmod/mb_shrt_xt_rev0_4_img001.jpg)
